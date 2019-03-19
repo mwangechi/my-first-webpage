@@ -8,3 +8,5 @@ This is an HTML webpage
 ## Support and Contact Details
 Twitter@bakhiter
 Twitter@arapchepkoity
+## License
+MIT © Kimosop
